@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago Lino Gomes
 - 👀 I’m interested in grow an improve my skills
-- 🌱 I’m quite confident in my abilities in C, Python, Django, HTML, CSS, SASS, JavaScript, PHP, WordPress, React, Node, Laravel, Angular, Git, SQL and NoSQL and currently learning Java and C++
+- 🌱 I’m quite confident in my abilities in C, Python, Django, HTML, CSS, SASS, JavaScript, PHP, WordPress, React, Next.js, Node, Git, SQL and NoSQL and currently learning Java and C++
 - 💞️ I’m looking forward to collaborate
 - 📫 You can reach me in thiagolinog8@gmail.com or https://www.linkedin.com/in/thiago-lino-gomes-5812581bb
 
