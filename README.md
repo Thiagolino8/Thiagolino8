@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Thiago Lino.</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Front End Developer</h3>
 <p align="center" style="font-size: 25px">
     <a href="https://www.linkedin.com/in/thiago-lino-gomes-5812581bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrorodriguesco" height="30" width="40" /></a>
 </p>
