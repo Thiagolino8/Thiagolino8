@@ -40,7 +40,7 @@ Over time, i had a lot of good and bad experiences. Based on that, i chose tools
 
 
 <h3 align="left">Tools</h3>
-    <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" height="40" width="40" /></a>
+    <a href="https://www.djangoproject.com/"><img src="https://cdn.svgporn.com/logos/django-icon.svg" alt="Django" height="40" width="40" /></a>
 
 
 <h3 align="left">Frontend Development</h3>
