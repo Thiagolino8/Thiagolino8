@@ -91,8 +91,9 @@ Over time, i had a lot of good and bad experiences. Based on that, i chose tools
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="40" width="40" /></a>
 <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" /></a>
 
-  
+<br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagolino8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!---
 Thiagolino8/Thiagolino8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
