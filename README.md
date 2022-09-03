@@ -54,7 +54,7 @@ Over time, i had a lot of good and bad experiences. Based on that, i chose tools
 <h3 align="left">Tools</h3>
     <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" height="40" width="40" /></a>
     <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" /></a>
-    <a href="https://react-query.tanstack.com/"><img src="https://raw.githubusercontent.com/tannerlinsley/react-query/master/docs/src/images/emblem-light.svg" alt="React Query" height="40" width="40" /></a>
+<a href="https://tanstack.com/query"><img src="https://cdn.svgporn.com/logos/react-query-icon.svg" alt="Redux" height="40" width="40" /></a>
     <a href="https://tailwindcss.com/"><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="Tailwind" height="40" width="40" /></a>
     <a href="https://materializecss.com/"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" height="40" width="40" /></a>
     <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" /></a>
