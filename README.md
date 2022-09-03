@@ -8,8 +8,8 @@
 <h2 align="left">Main Stack</h2>
 <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" height="40" width="40" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" /></a>
-<a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" /></a>
-<a href="https://react-query.tanstack.com/"><img src="https://raw.githubusercontent.com/tannerlinsley/react-query/master/docs/src/images/emblem-light.svg" alt="Redux" height="40" width="40" /></a>
+<a href="https://redux.js.org/"><img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux" height="40" width="40" /></a>
+<a href="https://tanstack.com/query"><img src="https://cdn.svgporn.com/logos/react-query-icon.svg" alt="Redux" height="40" width="40" /></a>
 <a href="https://tailwindcss.com/"><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="Materialize" height="40" width="40" /></a>
  <a href="https://chakra-ui.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chakraui.svg" alt="ChakraUI" height="40" width="40" /></a>
 <hr />
