@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋, I'm Thiago Lino.</h1>
+<h1 align="center">Hello There <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm Thiago Lino.</h1>
 <h3 align="center">Front End Developer</h3>
 <p align="center" style="font-size: 25px">
     <a href="https://www.linkedin.com/in/thiago-lino-gomes-5812581bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrorodriguesco" height="30" width="40" /></a>
@@ -9,7 +9,7 @@
 <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" height="40" width="40" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" /></a>
 <a href="https://redux.js.org/"><img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux" height="40" width="40" /></a>
-<a href="https://tanstack.com/query"><img src="https://cdn.svgporn.com/logos/react-query-icon.svg" alt="Redux" height="40" width="40" /></a>
+<a href="https://tanstack.com/query"><img src="https://cdn.svgporn.com/logos/react-query-icon.svg" alt="Tanstack Query" height="40" width="40" /></a>
 <a href="https://tailwindcss.com/"><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="Materialize" height="40" width="40" /></a>
  <a href="https://chakra-ui.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chakraui.svg" alt="ChakraUI" height="40" width="40" /></a>
 <hr />
