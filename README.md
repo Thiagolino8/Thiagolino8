@@ -80,7 +80,7 @@ Over time, i had a lot of good and bad experiences. Based on that, i chose tools
 
   
 <h3 align="left">DevOps</h3>
-<a href="https://aws.amazon.com/pt/console/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Console" height="40" width="40" /></a>
+<a href="https://aws.amazon.com/pt/console/"><img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS Console" height="40" width="40" /></a>
 <a href="https://docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" width="40" /></a>
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="Github" height="40" width="40" /></a>
   
