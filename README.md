@@ -45,8 +45,8 @@ Over time, i had a lot of good and bad experiences. Based on that, i chose tools
 
 <h3 align="left">Frontend Development</h3>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" /></a>
-<a href="https://svelte.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" height="40" width="40" /></a>
-<a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" width="40" /></a>
+<a href="https://svelte.dev/"><img src="https://cdn.svgporn.com/logos/svelte-icon.svg?response-content-disposition=attachment%3Bfilename%3Dsvelte-icon.svg" alt="Svelte" height="40" width="40" /></a>
+<a href="https://sass-lang.com/"><img src="https://cdn.svgporn.com/logos/sass.svg?response-content-disposition=attachment%3Bfilename%3Dsass.svg" alt="Sass" height="40" width="40" /></a>
 <a href="https://www.css3.info/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" /></a>
 <a href="https://html.com/html5/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" /></a>
 
@@ -60,12 +60,12 @@ Over time, i had a lot of good and bad experiences. Based on that, i chose tools
     <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" /></a>
     <a href="https://chakra-ui.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chakraui.svg" alt="ChakraUI" height="40" width="40" /></a>
     <a href="https://vitejs.dev/"><img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="Vite" height="40" width="40" /></a>
-    <a href="https://webpack.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="40" width="40" /></a>
+    <a href="https://webpack.js.org/"><img src="https://cdn.svgporn.com/logos/webpack.svg?response-content-disposition=attachment%3Bfilename%3Dwebpack.svg" alt="Webpack" height="40" width="40" /></a>
     <a href="https://babeljs.io/"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" height="40" width="40" /></a>
     
 
 <h3 align="left">Database</h3>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="MongoDB" height="40" width="40" /></a>
+<a href="https://www.postgresql.org/"><img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" alt="PostgreSQL" height="40" width="40" /></a>
 <a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" height="40" width="40" /></a>
 <a href="https://www.elastic.co/pt/what-is/elasticsearch"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="MySQL" height="40" width="40" /></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" /></a>
@@ -82,7 +82,7 @@ Over time, i had a lot of good and bad experiences. Based on that, i chose tools
 <h3 align="left">DevOps</h3>
 <a href="https://aws.amazon.com/pt/console/"><img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS Console" height="40" width="40" /></a>
 <a href="https://docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" width="40" /></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="Github" height="40" width="40" /></a>
+<a href="https://github.com/"><img src="https://cdn.svgporn.com/logos/github-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgithub-icon.svg" alt="Github" height="40" width="40" /></a>
   
 
 <h3 align="left">Software</h3>
